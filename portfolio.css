@@ -1,0 +1,26 @@
+/*******************************
+********PORTFOLIO.HTML**********
+*******************************/
+
+table, th,td {
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+th {
+    background-color: #dcdcdc;
+}
+
+.title-column {
+    font-weight: bold;
+    background-color: #dcdcdc;
+}
+
+/*******************************
+*********PORTFOLIO.PHP**********
+*******************************/
+
+.titre {
+    display: flex;
+    justify-content: center;
+}
